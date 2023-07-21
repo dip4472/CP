@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//Structure from constructing the Binary Tree
+//Structure for constructing the Binary Tree
 struct Node
 {
     int data;
